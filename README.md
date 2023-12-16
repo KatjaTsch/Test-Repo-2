@@ -7,3 +7,4 @@ Hello local pc
 Line conflict
 
 Git conflict 2
+Conflict line
