@@ -5,3 +5,5 @@ Hello Git
 Hello local pc
 
 Line conflict
+
+Git conflict 2
